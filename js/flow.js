@@ -1,3 +1,7 @@
+/**
+ * Js file to demo jquery.
+ */
+
 $( document ).ready(function () {
 
     // Function to hide show panels.
